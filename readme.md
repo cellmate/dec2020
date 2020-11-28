@@ -14,5 +14,13 @@
 - protonmail
 - bitwardan
 
+### Backup key signature:
+
+ - key: cellmate@pm.me
+**EB6927AE680073B694B3A96CA583058E26C25564**
+
+------------
+
 
 ![alt text](https://github.com/cellmate/dec2020/blob/main/file_map_version1.png?raw=true)
+
